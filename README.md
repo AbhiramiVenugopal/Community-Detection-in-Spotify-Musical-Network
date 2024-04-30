@@ -1,12 +1,12 @@
 **Spotify Community Detection Project**
 
-**Introduction**
+**Introduction:**
 This project explores community detection within Spotify's extensive tracks dataset, aiming to uncover the nuanced relationships between tracks, artists, and albums. By leveraging graph theory algorithms for community detection, we seek to enhance music recommendation systems and provide insights into cultural trends, music tastes, and the social dynamics of music consumption and production.
 
-**Motivation**
+**Motivation:**
 The core motivation of this research is to deepen our understanding of genre dynamics, collaborative patterns, and audio feature similarities in Spotify’s musical ecosystem. Such analysis promises to improve the personalization of music streaming services and contribute to the academic fields of musicology and network analysis, bridging computational methods with the musical arts.
 
-**Problem Definition**
+**Problem Definition:**
 The project focuses on constructing and analyzing a network representation of Spotify’s musical landscape to identify communities based on genre, collaboration, and musical features. The main goals include:
 
 **Network Construction for Spotify’s Musical Landscape:**
@@ -21,7 +21,7 @@ Optimize community detection algorithms to enhance the relevance and cohesion of
 Assess the performance of community detection algorithms on 𝐺.
 Quantitatively measure the purity and coherence of the communities 𝐶, aligning them with inherent musical categories and listener preferences.
 
-**Requirements**
+**Requirements:**
 Python 3.x
 Libraries: NetworkX, pandas, NumPy, scikit-learn
 Data: Spotify Tracks Datase
