@@ -1,5 +1,6 @@
-Spotify Community Detection Project
-Introduction
+**Spotify Community Detection Project**
+
+**Introduction**
 This project explores community detection within Spotify's extensive tracks dataset, aiming to uncover the nuanced relationships between tracks, artists, and albums. By leveraging graph theory algorithms for community detection, we seek to enhance music recommendation systems and provide insights into cultural trends, music tastes, and the social dynamics of music consumption and production.
 
 Motivation
